@@ -1,2 +1,2 @@
-*.enc
-nodemodules/
+*.env
+node_modules/
