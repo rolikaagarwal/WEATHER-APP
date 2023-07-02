@@ -9,9 +9,9 @@ Here's an overview of the features and functionality implemented in the weather 
 
 - `Weather Information:` The application displays the following weather information for the entered location:
 
-Current temperature ,
+Current temperature,
 Weather description (e.g., sunny, cloudy, etc.),
-Humidity ,
+Humidity,
 Wind speed 
 
 - `User-Friendly Presentation:` The weather information is presented in a visually appealing and easy-to-understand format. Appropriate weather icons or images are displayed based on the weather condition, enhancing the user experience.
@@ -31,3 +31,10 @@ The decision to use only HTML, CSS, and JavaScript without any extra libraries o
 - Lightweight: Not using additional libraries or frameworks helps us reduce the overall size of the application. This means the app will load faster and perform better, providing a smoother user experience.
 
 While there are many libraries and frameworks available that could simplify development or offer extra features, it's important to consider the specific requirements of the project. In this case, we can meet the needs of the Weather App effectively using just HTML, CSS, and JavaScript, without relying on external tools.
+
+
+## Demo - 
+
+
+https://github.com/rolikaagarwal/weather-app/assets/81984963/e57075f4-0b09-4682-a554-6f18361ce9ad
+
