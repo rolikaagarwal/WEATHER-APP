@@ -30,7 +30,7 @@ The decision to use only HTML, CSS, and JavaScript without any extra libraries o
 
 - Lightweight: Not using additional libraries or frameworks helps us reduce the overall size of the application. This means the app will load faster and perform better, providing a smoother user experience.
 
-While there are many libraries and frameworks available that could simplify development or offer extra features, it's important to consider the specific requirements of the project. In this case, we can meet the needs of the Weather App effectively using just HTML, CSS, and JavaScript, without relying on external tools.
+While there are many libraries and frameworks available that could simplify development or offer extra features, it's important to consider the specific requirements of the project.
 
 
 ## Demo - 
